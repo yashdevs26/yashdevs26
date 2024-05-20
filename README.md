@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
 <a href="https://komarev.com/ghpvc/?username=yashdevs26">
   <img align="left" src="https://komarev.com/ghpvc/?username=yashdevs26&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -19,9 +19,9 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0)) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
