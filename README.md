@@ -52,8 +52,8 @@ Feel free to reach out to me for pro bono consulting, or just for some interesti
 
 <p align="center">
 <a href="https://github.com/yashdevs26">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sirius-y&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sirius-y&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashdevs26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdevs26&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
