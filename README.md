@@ -21,6 +21,8 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0)) for more details about me.
 
+With over 2 years of hands-on experience crafting and managing high-scale FinTech products within Agile SDLC frameworks, my expertise lies in analyzing intricate systems, focusing on developmental design patterns, optimizing data flow logic, delivering resilient features catering to business requirements and integrate solutions from diverse cross-functional product teams. I thrive on deciphering complex concepts swiftly, breaking them down into manageable sub-concepts for clearer elucidation. As a dynamic young leader, I'm driven by the convergence of strategy, analytics, and code to achieve the desired objective effectively.
+
 <img alt="Night Coding" src="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
