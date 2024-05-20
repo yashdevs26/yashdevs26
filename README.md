@@ -18,9 +18,7 @@ With over 2 years of hands-on experience crafting and managing high-scale FinTec
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💡 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 💡 &nbsp;I'm on track for learning more about GenAI and Investment Banking.\
-💡 &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💡 &nbsp;You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can.\
 💡 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0)) for more details about me.
 
