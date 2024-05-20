@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![yashdevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashdevs26&show_icons=true&theme=radical)
 
-https://github-profile-trophy.vercel.app/?username=yashdevs26&theme=onedark
+![yashdevs's GitHub stats](https://github-profile-trophy.vercel.app/?username=yashdevs26&theme=onedark)
 
