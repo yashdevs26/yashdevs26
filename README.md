@@ -20,7 +20,7 @@ With over 2 years of hands-on experience crafting and managing high-scale FinTec
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💡 &nbsp;I'm on track for learning more about GenAI and Investment Banking.\
 💡 &nbsp;You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can.\
-💡 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0)) for more details about me.
+💡 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0) for more details about me.
 
 Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
 
@@ -53,7 +53,7 @@ Feel free to reach out to me for pro bono consulting, or just for some interesti
 <p align="center">
 <a href="https://github.com/yashdevs26">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashdevs26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdevs26&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdevs26&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
 
