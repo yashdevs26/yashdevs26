@@ -24,7 +24,7 @@ With over 2 years of hands-on experience crafting and managing high-scale FinTec
 💡 &nbsp;You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can.\
 💡 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0)) for more details about me.
 
-Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
+Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
 
 <img alt="Night Coding" src="" align="right"/>
 
@@ -34,7 +34,7 @@ Feel free to reach out to me for pro bono consulting, or just for some interesti
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+<!--![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\-->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -61,7 +61,7 @@ Feel free to reach out to me for pro bono consulting, or just for some interesti
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.yashdevs.com"><img src="https://img.shields.io/badge/-yashdevs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yashvardhan-dwivedi"><img src="https://img.shields.io/badge/-Yashvardhan%20Dwivedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dwivediyashvardhan@outlook.com"><img src="https://img.shields.io/badge/-dwivediyashvardhan@outlook.com-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
