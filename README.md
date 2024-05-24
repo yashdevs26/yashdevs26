@@ -15,7 +15,7 @@
 
 As a Software Development Engineer, I specialize in analyzing complex systems, employing developmental design patterns, optimizing data flow logic and delivering resilient features to meet business requirements. I excel in integrating solutions from diverse cross-functional product teams for managing high-scale products within the Fin-Tech sector.
 
-Let's connect to discuss synergies, exchange insights and drive technological innovation across various sectors, particularly in healthcare, sustainable agriculture and investment banking. You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can. Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
+I tend to explore a variety of domains but currently i am more into healthcare, sustainable agriculture and investment banking. You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can. Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
 
 <img alt="Night Coding" src="" align="right"/>
 
