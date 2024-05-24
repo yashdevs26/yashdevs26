@@ -21,7 +21,7 @@ Let's connect to discuss synergies, exchange insights and drive technological in
 
 ### 🛠 &nbsp;Technologies that I primarily work with
 
-![Static Badge](https://img.shields.io/badge/just%20the%20message-FFFFFF)
+![Static Badge](https://img.shields.io/badge/test-FFFFFF)
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
