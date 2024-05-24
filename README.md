@@ -19,7 +19,7 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 
 <img alt="Night Coding" src="" align="right"/>
 
-### 🛠 &nbsp;Technologies that I primarily work with
+### Technologies that I primarily work with
 
 ![badge](https://img.shields.io/badge/Java%2017-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Spring%20Boot-FFFFFF)&nbsp;
@@ -52,7 +52,7 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 </a>
 </p> -->
 
-### 🤝🏻 &nbsp;You can reach out to me via
+### You can reach out to me via
 
 <p align="left">
 <a href="https://www.yashdevs.com"><img src="https://img.shields.io/badge/-yashdevs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
