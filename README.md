@@ -21,7 +21,16 @@ Let's connect to discuss synergies, exchange insights and drive technological in
 
 ### 🛠 &nbsp;Technologies that I primarily work with
 
-![Static Badge](https://img.shields.io/badge/test-FFFFFF)
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp; \
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp; \
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
