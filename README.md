@@ -21,16 +21,27 @@ Let's connect to discuss synergies, exchange insights and drive technological in
 
 ### 🛠 &nbsp;Technologies that I primarily work with
 
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp; \
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp;
-![badge](https://img.shields.io/badge/test-FFFFFF)&nbsp; \
+![badge](https://img.shields.io/badge/Java%2017-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Spring%20Boot-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Spring%20Data%20Jpa-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Spring%20Security-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Spring%20Cloud-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/Spring%20Core-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Microservices-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Kafka-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/Struts-FFFFFF)&nbsp; \
+
+![badge](https://img.shields.io/badge/REST-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/SOAP-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/Kotlin-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/React-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/Docker-FFFFFF)&nbsp; 
+![badge](https://img.shields.io/badge/Kubernetes-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Git-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Subversion-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/C++-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/JavaScript-FFFFFF)&nbsp;
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
