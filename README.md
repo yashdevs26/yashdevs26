@@ -30,7 +30,7 @@ Let's connect to discuss synergies, exchange insights and drive technological in
 ![badge](https://img.shields.io/badge/Microservices-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Kafka-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF)&nbsp; 
-![badge](https://img.shields.io/badge/Struts-FFFFFF)&nbsp; \
+![badge](https://img.shields.io/badge/Struts-FFFFFF)&nbsp;
 
 ![badge](https://img.shields.io/badge/REST-FFFFFF)&nbsp; 
 ![badge](https://img.shields.io/badge/SOAP-FFFFFF)&nbsp; 
