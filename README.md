@@ -13,14 +13,11 @@
 
 ### Summary
 
-With over 2 years of hands-on experience crafting and managing high-scale FinTech products within Agile SDLC frameworks, my expertise lies in analyzing intricate systems, focusing on developmental design patterns, optimizing data flow logic, delivering resilient features catering to business requirements and integrate solutions from diverse cross-functional product teams. I thrive on deciphering complex concepts swiftly, breaking them down into manageable sub-concepts for clearer elucidation.
+As a Software Development Engineer, I specialize in analyzing complex systems, employing developmental design patterns, optimizing data flow logic and delivering resilient features to meet business requirements. I excel in integrating solutions from diverse cross-functional product teams for managing high-scale products within the Fin-Tech sector.
 
-### 👨🏻‍💻 &nbsp;About Me
+Let's connect to discuss synergies, exchange insights and drive technological innovation across various sectors, particularly in healthcare, sustainable agriculture and investment banking.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💡 &nbsp;I'm on track for learning more about GenAI and Investment Banking.\
-💡 &nbsp;You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can.\
-💡 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/nvxa7mx65njqzbvfwqq1b/Yashvardhan-Dwivedi-Resume.pdf?rlkey=bv6r25t17lq5knnf9plgcpd5q&e=1&st=yqvaxhmz&dl=0) for more details about me.
+You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can.\
 
 Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
 
@@ -28,9 +25,8 @@ Feel free to reach out to me for pro bono consulting, or just for some interesti
 
 ### 🛠 &nbsp;Technologies that I primarily work with
 
-![Java 17](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java 17](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java%2017&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 <!--![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\-->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
