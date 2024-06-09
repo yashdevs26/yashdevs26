@@ -17,8 +17,6 @@ As a Software Development Engineer, I specialize in analyzing complex systems, e
 
 I tend to explore a variety of domains but currently i am more into healthcare, sustainable agriculture and investment banking. You can shoot me an email at dwivediyashvardhan@outlook.com or say hi on my [Linkedin!]([https://linkedin.com/in/yashvardhan-dwivedi])! I'll try to respond as soon as I can. Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.
 
-<img alt="Night Coding" src="" align="right"/>
-
 ### Technologies that I primarily work with
 
 ![badge](https://img.shields.io/badge/Java%2017-FFFFFF)&nbsp;
