@@ -40,6 +40,9 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 ![badge](https://img.shields.io/badge/Subversion-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/C++-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/JavaScript-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Eureka-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Zipkin-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/OAuth-FFFFFF)&nbsp;
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
