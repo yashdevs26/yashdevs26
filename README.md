@@ -6,7 +6,7 @@
 
 <h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yashdevs.com">Yashvardhan P. Dwivedi</a></b>
+                <b><a target="_blank" href="https://yashdevs26.github.io/resume">Yashvardhan P. Dwivedi</a></b>
         </samp>
 </h2>
 
