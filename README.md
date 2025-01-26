@@ -19,7 +19,7 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 
 ### Technologies that I primarily work with
 
-![badge](https://img.shields.io/badge/Java%2017-FFFFFF)&nbsp;
+![badge](https://img.shields.io/badge/Java-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Spring%20Boot-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Spring%20Data%20Jpa-FFFFFF)&nbsp;
 ![badge](https://img.shields.io/badge/Spring%20Security-FFFFFF)&nbsp;
