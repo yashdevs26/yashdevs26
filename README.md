@@ -1,4 +1,4 @@
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+
 
 <a href="https://komarev.com/ghpvc/?username=yashdevs26">
   <img align="left" src="https://komarev.com/ghpvc/?username=yashdevs26&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -59,7 +59,6 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 <!--<a href="yashdevs26.github.io/visit"><img src="https://img.shields.io/badge/-Visit yashdevs26-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/yashvardhan-dwivedi"><img src="https://img.shields.io/badge/-linkedin/Yashvardhan%20Dwivedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dwivediyashvardhan@outlook.com"><img src="https://img.shields.io/badge/-dwivediyashvardhan@outlook.com-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
-<!--<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
 <!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>-->
