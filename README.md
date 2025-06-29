@@ -56,7 +56,7 @@ I tend to explore a variety of domains but currently i am more into healthcare, 
 ### You can reach out to me via
 
 <p align="left">
-<a href="https://www.yashdevs.com"><img src="https://img.shields.io/badge/-yashdevs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="yashdevs26.github.io/visit"><img src="https://img.shields.io/badge/-yashdevs.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yashvardhan-dwivedi"><img src="https://img.shields.io/badge/-Yashvardhan%20Dwivedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dwivediyashvardhan@outlook.com"><img src="https://img.shields.io/badge/-dwivediyashvardhan@outlook.com-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
 <!--<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
